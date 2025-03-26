@@ -10,6 +10,10 @@
 
 홈페이지예제자료활용으로 공부
 https://www.hanbit.co.kr/support/supplement_list.html
+
+노트북LM
+https://notebooklm.google/
+
 ## 5장 
 ![스크린샷 2025-03-26 133456](https://github.com/user-attachments/assets/4574c29b-3a73-426f-9b19-90d8a9c32119)
 ![스크린샷 2025-03-26 133613](https://github.com/user-attachments/assets/9b144f7f-5687-4e1c-b9d2-449ed051f26b)
