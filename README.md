@@ -22,3 +22,4 @@ https://notebooklm.google/
 #6장
 ![스크린샷 2025-03-26 143002](https://github.com/user-attachments/assets/d966f69b-8a48-4d9b-8c98-bda2f5afb547)
 ![스크린샷 2025-03-26 143021](https://github.com/user-attachments/assets/1d2eb059-8280-492c-8783-689e1ae4048e)
+![unnamed](https://github.com/user-attachments/assets/b775d4df-0760-4db5-bb7d-189a1b3eb3e7)
